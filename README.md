@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ky-Lee-375
-- 👀 I’m interested in AR/VR and machine learning. 
+- 👀 I’m interested in Augmented Reality and Virtual Reality.
+- 💻 I have experiences in Unity, C#, Python, Java, C++, and C.
+- 🧰 I have used Meta/Oculus Quest, HTC Vive, and Magic Leap. 
 - 📫 Reach me through my email kl35@illinois.edu or clauky61@gmail.com
 
 <!---
